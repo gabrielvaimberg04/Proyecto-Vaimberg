@@ -6,3 +6,7 @@ body{
     background-color: rgb(255, 253, 139);
     font-family:fantasy
 }
+
+.nav-link{
+    color:rgb(210, 105, 0)
+}
