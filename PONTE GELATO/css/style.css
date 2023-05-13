@@ -7,6 +7,17 @@ body{
     font-family:fantasy
 }
 
+ul{
+    display: flex;
+    justify-content: space-evenly;
+    list-style: none;
+}
+
 .nav-link{
-    color:rgb(210, 105, 0)
+    color:darkorange;
+    text-decoration: none;
+    font-size: 12px;
+    background-color: black;
+    border-radius: 10px;
+    padding: 10px;
 }
